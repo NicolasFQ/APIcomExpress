@@ -25,3 +25,6 @@ class Pessoa {
 
 let humano = new Pessoa("Marco", "Motorista");
 humano.arquivar();
+
+let pessoa = new Pessoa("Joana", "Astronauta");
+pessoa.arquivar();
